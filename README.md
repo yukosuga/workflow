@@ -7,5 +7,5 @@ git status
 ## shorthand command / add & commit
 git commit -am "commit message"
 
-## check history of repositories
+## check history of repository
 git log
